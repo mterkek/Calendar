@@ -1,0 +1,15 @@
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.csproj.AssemblyReference.cache
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.Properties.Resources.resources
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.csproj.GenerateResource.cache
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.csproj.CoreCompileInputs.cache
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\bin\Debug\Takvim.exe.config
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\bin\Debug\Takvim.exe
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\bin\Debug\Takvim.pdb
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.Forms.AdminLogin.resources
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.exe
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.pdb
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.Forms.UserLogin.resources
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.Forms.Home.resources
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.Forms.Signup.resources
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.Forms.Calendar.resources
+C:\Users\NADİR PAYAM\Source\Repos\Takvim\Takvim\obj\Debug\Takvim.Forms.Plan.resources
